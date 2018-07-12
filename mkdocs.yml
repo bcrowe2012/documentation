@@ -1,6 +1,6 @@
 site_name: Bethesda Tabernacle Documentation
 pages:
-  - Home: 'index.md'
+  Home: 'index.md'
     - About: 'about.md'
   - Tecnology:
     - Overview: technology/overview.md
