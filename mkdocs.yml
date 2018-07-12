@@ -2,6 +2,10 @@ site_name: Bethesda Tabernacle Documentation
 pages:
   - Home: 'index.md'
   - About: 'about.md'
-  - Tecnology:
+  - Accounting:
+    - Overview: accounting/overview.md
+  - Events:
+    - Overview: events/overview.md
+  - Technology:
     - Overview: technology/overview.md
 theme: readthedocs
